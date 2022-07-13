@@ -6,3 +6,10 @@ clone : copying remote repository(github) to my computer
 add : adding worked file on stage
 commit : save. can make commit(=save) with uploaded files on the stage area
 push : uploading commit(saving record) to remote repository
+
+## restoring file
+
+if I want to restore certain file's content to last commit,
+
+1. select the file
+2. select 'discard hunk' on sourcetree
