@@ -26,3 +26,9 @@ work with one branch(current branch, head branch) at a time
 
 checkout : to go back to certain branch(or commit)
 checkout in sourcetree : just double-click the branch name
+
+## merging 1
+
+- if there's no modification on head branch
+- and a branch targeted to merge started from the head
+- easy to merge both = fast-forward
