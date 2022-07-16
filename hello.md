@@ -42,3 +42,5 @@ checkout in sourcetree : just double-click the branch name
 ## solving crash
 
 - important! don't panic!
+- again! do it again until it works
+- and do your best
