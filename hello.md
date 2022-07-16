@@ -46,3 +46,7 @@ checkout in sourcetree : just double-click the branch name
 ## today's mood
 
 - smelly laundry bcuz of humid weather
+
+## reset
+
+- things not stored in remote repositories just gone
