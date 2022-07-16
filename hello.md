@@ -42,3 +42,7 @@ checkout in sourcetree : just double-click the branch name
 ## solving crash
 
 - important! don't panic!
+
+## today's mood
+
+- smelly laundry bcuz of humid weather
