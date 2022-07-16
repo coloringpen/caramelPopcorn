@@ -32,3 +32,9 @@ checkout in sourcetree : just double-click the branch name
 - if there's no modification on head branch
 - and a branch targeted to merge started from the head
 - easy to merge both = fast-forward
+
+## merging 2
+
+- extra commit on head branch
+- need 'real' merging
+- it is the best if there is no 'crash', but let's not panic even though there it is:)
