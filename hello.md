@@ -39,6 +39,6 @@ checkout in sourcetree : just double-click the branch name
 - need 'real' merging
 - it is the best if there is no 'crash', but let's not panic even though there it is:)
 
-## solving crash
+## today's feeling
 
-- important! don't panic!
+- not so good
