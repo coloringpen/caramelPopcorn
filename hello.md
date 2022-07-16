@@ -38,3 +38,7 @@ checkout in sourcetree : just double-click the branch name
 - extra commit on head branch
 - need 'real' merging
 - it is the best if there is no 'crash', but let's not panic even though there it is:)
+
+## solving crash
+
+- important! don't panic!
